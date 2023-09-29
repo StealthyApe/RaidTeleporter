@@ -16,7 +16,6 @@ The teleports available will depend on the mode selected in config.
 #### Speed farm mode will provide a teleport to the next boss in sequence, for those that hate clearing trash.
 #### Target farm mode provides a teleport to every boss in the instance, handy if you only need to farm one boss.
 
--- screenshot
 
 Requirements
 
