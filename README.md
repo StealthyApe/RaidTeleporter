@@ -28,5 +28,6 @@ Edit the module's configuration (optional)
 If you need to change the module configuration, go to your server configuration directory (where your worldserver or worldserver.exe is), copy RaidTeleporter.conf.dist to RaidTeleporter.conf and edit that new file.
 
 Credits
-Covertmonkey: Find me in the Azer
+Covertmonkey: Find me in my [discord](https://discord.gg/zHTqRY4EAQ"Covertmonkey's Modules") 
+
 AzerothCore: repository - website - discord chat community
