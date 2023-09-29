@@ -5,7 +5,8 @@ It works by teleporting a player to coordinates that can be obtained by a gm acc
 It doesn't require any SQL queries as it is a script but i have provided SQL queries to create some teleporters.
 Please check the provided ranges do not overlap anything in your current database.
 I have also produced a small C++ program that can be used to generate the queries that are used by the teleporters.
--- link --
+
+[SQL builder](https://github.com/StealthyApe/Raid-Teleporter-SQL-Builder/tree/main "Github page")
 
 ## How to use ingame
 If you've used the default SQL queries or the ones created by the other program you'll have a teleporter at the entrance of the raids and one at every boss.
