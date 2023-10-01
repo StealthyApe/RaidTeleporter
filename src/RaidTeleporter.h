@@ -6,6 +6,7 @@
 #include "ScriptedGossip.h"
 #include "dungeonmaps.h"
 #include "Configuration/Config.h"
+#include "string"
 #include <vector>
 
 
@@ -22,5 +23,6 @@ public:
 	bool OnGossipHello(Player* player, GameObject* go) override;
 	bool OnGossipSelect(Player* player, GameObject* /*go*/, uint32 sender, uint32 action) override;
     bool CheckForSkip(int toCheck);
+    std::string CopperToString(int copper);
 
 };

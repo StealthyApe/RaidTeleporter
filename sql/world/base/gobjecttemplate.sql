@@ -3,4 +3,12 @@ REPLACE INTO `gameobject_template` (`entry`, `type`, `displayId`, `name`, `IconN
 (902001, 10, 8632, 'Black Wing Lair Teleporter', '', '', '', 1, 0, 0, 0, 0, 0,0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 45001, 1, 0, 0, 0, '', 'RaidTeleporter', 0),
 (902002, 10, 8632, 'Zul\'Gurub Teleporter', '', '', '', 1, 0, 0, 0, 0, 0,0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 45002, 1, 0, 0, 0, '', 'RaidTeleporter', 0),
 (902003, 10, 8632, 'Ruins of Ahn\'Qiraj Teleporter', '', '', '', 1, 0, 0, 0, 0, 0,0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 45003, 1, 0, 0, 0, '', 'RaidTeleporter', 0),
-(902004, 10, 8632, 'Temple of Ahn\'Qiraj Teleporter', '', '', '', 1, 0, 0, 0, 0, 0,0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 45004, 1, 0, 0, 0, '', 'RaidTeleporter', 0);
+(902004, 10, 8632, 'Temple of Ahn\'Qiraj Teleporter', '', '', '', 1, 0, 0, 0, 0, 0,0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 45004, 1, 0, 0, 0, '', 'RaidTeleporter', 0),
+(902005, 10, 8632, 'Karazhan Teleporter', '', '', '', 1, 0, 0, 0, 0, 0,0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 45005, 1, 0, 0, 0, '', 'RaidTeleporter', 0),
+(902006, 10, 8632, 'Gruul\'s Lair Teleporter', '', '', '', 1, 0, 0, 0, 0, 0,0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 45006, 1, 0, 0, 0, '', 'RaidTeleporter', 0),
+(902007, 10, 8632, 'Magtheridon\'s Lair Teleporter', '', '', '', 1, 0, 0, 0, 0, 0,0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 45007, 1, 0, 0, 0, '', 'RaidTeleporter', 0),
+(902008, 10, 8632, 'Serpentshrine Cavern Teleporter', '', '', '', 1, 0, 0, 0, 0, 0,0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 45008, 1, 0, 0, 0, '', 'RaidTeleporter', 0),
+(902009, 10, 8632, 'Tempest Keep Teleporter', '', '', '', 1, 0, 0, 0, 0, 0,0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 45009, 1, 0, 0, 0, '', 'RaidTeleporter', 0),
+(902010, 10, 8632, 'Black Temple Teleporter', '', '', '', 1, 0, 0, 0, 0, 0,0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 45010, 1, 0, 0, 0, '', 'RaidTeleporter', 0),
+(902011, 10, 8632, 'Zul\'Aman Teleporter', '', '', '', 1, 0, 0, 0, 0, 0,0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 45011, 1, 0, 0, 0, '', 'RaidTeleporter', 0),
+(902012, 10, 8632, 'Sunwell Plateau Teleporter', '', '', '', 1, 0, 0, 0, 0, 0,0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 45012, 1, 0, 0, 0, '', 'RaidTeleporter', 0);
